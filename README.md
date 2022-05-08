@@ -2,9 +2,9 @@
 
 ## About Me
 
-Senior at the [University of Alabama](https://cs.ua.edu/) pursuing a B.S. of Computer Science 🐘
-I'm currently working on various solutions to improve classroom experience for both teachers and students! 📖
-Always at the gym when not at the keyboard 😤💪
+Senior at the [University of Alabama](https://cs.ua.edu/) pursuing a B.S. of Computer Science 🐘  
+I'm currently working on various solutions to improve classroom experience for both teachers and students! 📖  
+Always at the gym when not at the keyboard 😤💪  
 
 [![Linkedin pwzhang](https://img.shields.io/badge/-pwzhang-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pwzhang/)](https://www.linkedin.com/in/pwzhang/) [![GitHub peterwzhang](https://img.shields.io/github/followers/peterwzhang?label=follow&style=social)](https://github.com/peterwzhang) ![GH views pwzhang](https://komarev.com/ghpvc/?username=peterwzhang)
 
@@ -34,6 +34,6 @@ Always at the gym when not at the keyboard 😤💪
 
 ### Weightlifting Stats
 
-[Bench: 275x1](https://alabama.box.com/shared/static/2aw3lkm5c2k9o9rimqwl7iendbdeypnl.mov)
-[Deadlift: 305x5](https://alabama.box.com/shared/static/49ozsfrgs4lic8nzaejmwp953ch8mdsq.mov)
-[Squat: 290x4](https://alabama.box.com/shared/static/gcrnvh0r8nfzp7d36uz2r2k5cnvvo75g.mov)
+[Bench: 275x1](https://alabama.box.com/shared/static/2aw3lkm5c2k9o9rimqwl7iendbdeypnl.mov)  
+[Deadlift: 305x5](https://alabama.box.com/shared/static/49ozsfrgs4lic8nzaejmwp953ch8mdsq.mov)  
+[Squat: 290x4](https://alabama.box.com/shared/static/gcrnvh0r8nfzp7d36uz2r2k5cnvvo75g.mov)  
