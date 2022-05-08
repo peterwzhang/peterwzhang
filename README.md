@@ -34,6 +34,6 @@ Always at the gym when not at the keyboard 😤💪
 
 ### Weightlifting Stats
 
-[Bench: 275x1](assets/lifts/bench275x1.MOV)
-[Deadlift: 305x5](assets/lifts/deadlift305x5.mov)
-[Squat: 290x4](assets/lifts/squat290x4.mov)
+[Bench: 275x1](https://alabama.box.com/shared/static/2aw3lkm5c2k9o9rimqwl7iendbdeypnl.mov)
+[Deadlift: 305x5](https://alabama.box.com/shared/static/49ozsfrgs4lic8nzaejmwp953ch8mdsq.mov)
+[Squat: 290x4](https://alabama.box.com/shared/static/gcrnvh0r8nfzp7d36uz2r2k5cnvvo75g.mov)
