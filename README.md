@@ -3,7 +3,7 @@
 ## About Me
 
 Senior at the [University of Alabama](https://cs.ua.edu/) pursuing a B.S. of Computer Science 🐘  
-I'm currently working on various solutions to improve classroom experience for both teachers and students! 📖  
+I'm currently working on a few projects to improve classroom experience for both teachers and students! 📖  
 Always at the gym when not at the keyboard 😤💪  
 
 [![Linkedin pwzhang](https://img.shields.io/badge/-pwzhang-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pwzhang/)](https://www.linkedin.com/in/pwzhang/) [![GitHub peterwzhang](https://img.shields.io/github/followers/peterwzhang?label=follow&style=social)](https://github.com/peterwzhang) ![GH views pwzhang](https://komarev.com/ghpvc/?username=peterwzhang)
